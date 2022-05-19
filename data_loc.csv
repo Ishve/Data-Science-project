@@ -1,0 +1,68 @@
+Location,Country,latitude,longitude,Event_Type,Event_Name_Risk_Impact,State province
+NA,ARGENTINA,-34.9964963,-64.9672817,None,Low,Buenos Aires
+EMEA,AUSTRALIA,-24.7761086,134.755,None,Low,Victoria
+EMEA,AUSTRIA,-24.7761086,134.755,None,Low,Western Australia
+EMEA,BANGLADESH,47.59397,14.12456,Neighbouring War,Medium,
+EMEA,BELARUS,47.59397,14.12456,Neighbouring War,Medium,Vorarlberg
+APAC,BELGIUM,24.4769288,90.2934413,Economic,Medium,Dhaka zila
+APAC,BOSNIA AND HERZEGOVINA,24.4769288,90.2934413,Economic,Medium,Rangpur zila
+APAC,BRAZIL,24.4769288,90.2934413,Economic,Medium,Chittagong zila
+APAC,BULGARIA,24.4769288,90.2934413,Economic,Medium,Mymensingh zila
+EMEA,CANADA,53.4250605,27.6971358,Neighbouring War,Medium,Vitsyebskaya voblasts'
+EMEA,CHILE,53.4250605,27.6971358,Neighbouring War,Medium,Minskaya voblasts'
+EMEA,CHINA,53.4250605,27.6971358,Neighbouring War,Medium,Mahilyowskaya voblasts'
+EMEA,CROATIA,53.4250605,27.6971358,Neighbouring War,Medium,Homyel'kaya voblasts'
+EMEA,CZECH REPUBLIC,53.4250605,27.6971358,Neighbouring War,Medium,Brestskaya voblasts'
+EMEA,DENMARK,50.6402809,4.6667145,Neighbouring War,Medium,Brabant Wallon
+EMEA,DOMINICAN REPUBLIC,50.6402809,4.6667145,Neighbouring War,Medium,Luxembourg
+EMEA,EGYPT,50.6402809,4.6667145,Neighbouring War,Medium,
+EMEA,ESTONIA,50.6402809,4.6667145,Neighbouring War,Medium,LiŠge
+EMEA,ETHIOPIA,50.6402809,4.6667145,Neighbouring War,Medium,West-Vlaanderen
+EMEA,FINLAND,50.6402809,4.6667145,Neighbouring War,Medium,Antwerpen
+EMEA,FRANCE,50.6402809,4.6667145,Neighbouring War,Medium,Vlaams Brabant
+NA,GERMANY,44.3053476,17.5961467,Economic,Medium,Federacija Bosna i Hercegovina
+NA,GREECE,44.3053476,17.5961467,Economic,Medium,Republika Srpska
+NA,HONG KONG,-10.3333333,-53.2,None,Low,Rio Grande do Sul
+NA,HUNGARY,-10.3333333,-53.2,None,Low,Santa Catarina
+NA,INDIA,-10.3333333,-53.2,None,Low,Bahia
+NA,INDONESIA,-10.3333333,-53.2,None,Low,S?o Paulo
+NA,IRELAND,-10.3333333,-53.2,None,Low,Par 
+NA,ISRAEL,-10.3333333,-53.2,None,Low,Pernambuco
+NA,ITALY,-10.3333333,-53.2,None,Low,
+EMEA,JAPAN,42.6073975,25.4856617,Economic,Medium,Montana
+EMEA,JORDAN,42.6073975,25.4856617,Economic,Medium,Pazardzhik
+EMEA,KAZAKHSTAN,42.6073975,25.4856617,Economic,Medium,Shumen
+EMEA,LATVIA,42.6073975,25.4856617,Economic,Medium,Ruse
+EMEA,LITHUANIA,42.6073975,25.4856617,Economic,Medium,Smoljan
+EMEA,LUXEMBOURG,42.6073975,25.4856617,Economic,Medium,
+EMEA,MACAO,42.6073975,25.4856617,Economic,Medium,Lovec
+EMEA,MALAYSIA,42.6073975,25.4856617,Economic,Medium,Gabrovo
+EMEA,MEXICO,42.6073975,25.4856617,Economic,Medium,Targovishte
+EMEA,MOLDOVA,42.6073975,25.4856617,Economic,Medium,Stara Zagora
+NA,NETHERLANDS,61.0666922,-107.991707,None,Low,Ontario
+NA,NEW ZEALAND,61.0666922,-107.991707,None,Low,Alberta
+NA,NORWAY,61.0666922,-107.991707,None,Low,Nova Scotia
+NA,PAKISTAN,61.0666922,-107.991707,None,Low,New Brunswick
+NA,PHILIPPINES,61.0666922,-107.991707,None,Low,British Columbia
+NA,POLAND,61.0666922,-107.991707,None,Low,Manitoba
+NA,PORTUGAL,-31.7613365,-71.3187697,None,Low,Santiago de Chile
+NA,ROMANIA,-31.7613365,-71.3187697,None,Low,Valpara¡so
+APAC,RUSSIA,35.000074,104.999927,Economic,Medium,
+APAC,SAUDI ARABIA,35.000074,104.999927,Economic,Medium,Anhui
+APAC,SERBIA,35.000074,104.999927,Economic,Medium,Zhejiang
+APAC,SINGAPORE,35.000074,104.999927,Economic,Medium,Jiangsu
+APAC,SLOVAKIA,35.000074,104.999927,Economic,Medium,Liaoning
+APAC,SLOVENIA,35.000074,104.999927,Economic,Medium,Hebei
+APAC,SOUTH KOREA,35.000074,104.999927,Economic,Medium,Guangdong
+APAC,SPAIN,35.000074,104.999927,Economic,Medium,Jiangxi
+APAC,SRI LANKA,35.000074,104.999927,Economic,Medium,Sichuan
+APAC,SWEDEN,35.000074,104.999927,Economic,Medium,Chongqing
+APAC,SWITZERLAND,35.000074,104.999927,Economic,Medium,Beijing
+APAC,TAIWAN,35.000074,104.999927,Economic,Medium,Fujian
+APAC,THAILAND,35.000074,104.999927,Economic,Medium,Hubei
+APAC,TURKEY,35.000074,104.999927,Economic,Medium,Guangxi
+APAC,UKRAINE,35.000074,104.999927,Economic,Medium,Tianjin
+APAC,UNITED ARAB EMIRATES,35.000074,104.999927,Economic,Medium,Shanxi
+APAC,UNITED KINGDOM,35.000074,104.999927,Economic,Medium,Hunan
+APAC,UNITED STATES OF AMERICA,35.000074,104.999927,Economic,Medium,Shandong
+APAC,VIETNAM,35.000074,104.999927,Economic,Medium,Hong Kong
