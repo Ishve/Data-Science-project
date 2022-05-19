@@ -1,0 +1,432 @@
+Location,Country,latitude,longitude,Event_Type,Event_Name_Risk_Impact,State province
+NA,ARGENTINA,-34.9964963,-64.9672817,None,Low,Buenos Aires
+EMEA,AUSTRALIA,-24.7761086,134.755,None,Low,Victoria
+EMEA,AUSTRIA,-24.7761086,134.755,None,Low,Western Australia
+EMEA,BANGLADESH,47.59397,14.12456,Neighbouring War,Medium,
+EMEA,BELARUS,47.59397,14.12456,Neighbouring War,Medium,Vorarlberg
+APAC,BELGIUM,24.4769288,90.2934413,Economic,Medium,Dhaka zila
+APAC,BOSNIA AND HERZEGOVINA,24.4769288,90.2934413,Economic,Medium,Rangpur zila
+APAC,BRAZIL,24.4769288,90.2934413,Economic,Medium,Chittagong zila
+APAC,BULGARIA,24.4769288,90.2934413,Economic,Medium,Mymensingh zila
+EMEA,CANADA,53.4250605,27.6971358,Neighbouring War,Medium,Vitsyebskaya voblasts'
+EMEA,CHILE,53.4250605,27.6971358,Neighbouring War,Medium,Minskaya voblasts'
+EMEA,CHINA,53.4250605,27.6971358,Neighbouring War,Medium,Mahilyowskaya voblasts'
+EMEA,CROATIA,53.4250605,27.6971358,Neighbouring War,Medium,Homyel'kaya voblasts'
+EMEA,CZECH REPUBLIC,53.4250605,27.6971358,Neighbouring War,Medium,Brestskaya voblasts'
+EMEA,DENMARK,50.6402809,4.6667145,Neighbouring War,Medium,Brabant Wallon
+EMEA,DOMINICAN REPUBLIC,50.6402809,4.6667145,Neighbouring War,Medium,Luxembourg
+EMEA,EGYPT,50.6402809,4.6667145,Neighbouring War,Medium,
+EMEA,ESTONIA,50.6402809,4.6667145,Neighbouring War,Medium,LiŠge
+EMEA,ETHIOPIA,50.6402809,4.6667145,Neighbouring War,Medium,West-Vlaanderen
+EMEA,FINLAND,50.6402809,4.6667145,Neighbouring War,Medium,Antwerpen
+EMEA,FRANCE,50.6402809,4.6667145,Neighbouring War,Medium,Vlaams Brabant
+NA,GERMANY,44.3053476,17.5961467,Economic,Medium,Federacija Bosna i Hercegovina
+NA,GREECE,44.3053476,17.5961467,Economic,Medium,Republika Srpska
+NA,HONG KONG,-10.3333333,-53.2,None,Low,Rio Grande do Sul
+NA,HUNGARY,-10.3333333,-53.2,None,Low,Santa Catarina
+NA,INDIA,-10.3333333,-53.2,None,Low,Bahia
+NA,INDONESIA,-10.3333333,-53.2,None,Low,S?o Paulo
+NA,IRELAND,-10.3333333,-53.2,None,Low,Par 
+NA,ISRAEL,-10.3333333,-53.2,None,Low,Pernambuco
+NA,ITALY,-10.3333333,-53.2,None,Low,
+EMEA,JAPAN,42.6073975,25.4856617,Economic,Medium,Montana
+EMEA,JORDAN,42.6073975,25.4856617,Economic,Medium,Pazardzhik
+EMEA,KAZAKHSTAN,42.6073975,25.4856617,Economic,Medium,Shumen
+EMEA,LATVIA,42.6073975,25.4856617,Economic,Medium,Ruse
+EMEA,LITHUANIA,42.6073975,25.4856617,Economic,Medium,Smoljan
+EMEA,LUXEMBOURG,42.6073975,25.4856617,Economic,Medium,
+EMEA,MACAO,42.6073975,25.4856617,Economic,Medium,Lovec
+EMEA,MALAYSIA,42.6073975,25.4856617,Economic,Medium,Gabrovo
+EMEA,MEXICO,42.6073975,25.4856617,Economic,Medium,Targovishte
+EMEA,MOLDOVA,42.6073975,25.4856617,Economic,Medium,Stara Zagora
+NA,NETHERLANDS,61.0666922,-107.991707,None,Low,Ontario
+NA,NEW ZEALAND,61.0666922,-107.991707,None,Low,Alberta
+NA,NORWAY,61.0666922,-107.991707,None,Low,Nova Scotia
+NA,PAKISTAN,61.0666922,-107.991707,None,Low,New Brunswick
+NA,PHILIPPINES,61.0666922,-107.991707,None,Low,British Columbia
+NA,POLAND,61.0666922,-107.991707,None,Low,Manitoba
+NA,PORTUGAL,-31.7613365,-71.3187697,None,Low,Santiago de Chile
+NA,ROMANIA,-31.7613365,-71.3187697,None,Low,Valpara¡so
+APAC,RUSSIA,35.000074,104.999927,Economic,Medium,
+APAC,SAUDI ARABIA,35.000074,104.999927,Economic,Medium,Anhui
+APAC,SERBIA,35.000074,104.999927,Economic,Medium,Zhejiang
+APAC,SINGAPORE,35.000074,104.999927,Economic,Medium,Jiangsu
+APAC,SLOVAKIA,35.000074,104.999927,Economic,Medium,Liaoning
+APAC,SLOVENIA,35.000074,104.999927,Economic,Medium,Hebei
+APAC,SOUTH KOREA,35.000074,104.999927,Economic,Medium,Guangdong
+APAC,SPAIN,35.000074,104.999927,Economic,Medium,Jiangxi
+APAC,SRI LANKA,35.000074,104.999927,Economic,Medium,Sichuan
+APAC,SWEDEN,35.000074,104.999927,Economic,Medium,Chongqing
+APAC,SWITZERLAND,35.000074,104.999927,Economic,Medium,Beijing
+APAC,TAIWAN,35.000074,104.999927,Economic,Medium,Fujian
+APAC,THAILAND,35.000074,104.999927,Economic,Medium,Hubei
+APAC,TURKEY,35.000074,104.999927,Economic,Medium,Guangxi
+APAC,UKRAINE,35.000074,104.999927,Economic,Medium,Tianjin
+APAC,UNITED ARAB EMIRATES,35.000074,104.999927,Economic,Medium,Shanxi
+APAC,UNITED KINGDOM,35.000074,104.999927,Economic,Medium,Hunan
+APAC,UNITED STATES OF AMERICA,35.000074,104.999927,Economic,Medium,Shandong
+APAC,VIETNAM,35.000074,104.999927,Economic,Medium,Hong Kong
+APAC,,35.000074,104.999927,Economic,Medium,Henan
+APAC,,35.000074,104.999927,Economic,Medium,Shanghai
+EMEA,,45.5643442,17.0118954,None,Low,
+EMEA,,45.5643442,17.0118954,None,Low,Varazdinska zupanija
+EMEA,,49.8167003,15.4749544,Economic,Medium,Jihocesk? kraj
+EMEA,,49.8167003,15.4749544,Economic,Medium,Vysocina
+EMEA,,49.8167003,15.4749544,Economic,Medium,?steck? kraj
+EMEA,,49.8167003,15.4749544,Economic,Medium,Pardubick? kraj
+EMEA,,49.8167003,15.4749544,Economic,Medium,
+EMEA,,49.8167003,15.4749544,Economic,Medium,Zl¡nsk? kraj
+EMEA,,49.8167003,15.4749544,Economic,Medium,Stredocesk? kraj
+EMEA,,49.8167003,15.4749544,Economic,Medium,Kr lov‚hradeck? kraj
+EMEA,,49.8167003,15.4749544,Economic,Medium,"Praha, hlavn¡ mesto"
+EMEA,,49.8167003,15.4749544,Economic,Medium,Moravskoslezsk? kraj
+EMEA,,49.8167003,15.4749544,Economic,Medium,Jihomoravsk? kraj
+EMEA,,55.670249,10.3333283,None,Low,
+EMEA,,55.670249,10.3333283,None,Low,Vestsj‘lland
+EMEA,,55.670249,10.3333283,None,Low,Nordjylland
+EMEA,,55.670249,10.3333283,None,Low,Fyn
+EMEA,,55.670249,10.3333283,None,Low,Bornholm
+NA,,19.0974031,-70.3028026,None,Low,San Crist¢bal
+EMEA,,26.2540493,29.2675469,Economic,Medium,Al Qahirah
+EMEA,,26.2540493,29.2675469,Economic,Medium,Al Jizah
+EMEA,,26.2540493,29.2675469,Economic,Medium,Al Isma'liyah
+EMEA,,58.7523778,25.3319078,Economic,Medium,Viljandimaa
+EMEA,,58.7523778,25.3319078,Economic,Medium,P„rnumaa
+EMEA,,58.7523778,25.3319078,Economic,Medium,Harjumaa
+EMEA,,58.7523778,25.3319078,Economic,Medium,
+EMEA,,58.7523778,25.3319078,Economic,Medium,Tartumaa
+EMEA,,10.2116702,38.6521203,Economic,Medium,Amara
+EMEA,,10.2116702,38.6521203,Economic,Medium,Adis Abeba
+EMEA,,63.2467777,25.9209164,Economic,Medium,Etel„-Suomen l„„ni
+EMEA,,63.2467777,25.9209164,Economic,Medium,
+EMEA,,63.2467777,25.9209164,Economic,Medium,L„nsi-Suomen l„„ni
+EMEA,,46.603354,1.8883335,None,Low,HAUTS-DE-FRANCE
+EMEA,,46.603354,1.8883335,None,Low,
+EMEA,,46.603354,1.8883335,None,Low,AUVERGNE-RH?NE-ALPES
+EMEA,,46.603354,1.8883335,None,Low,GRAND EST
+EMEA,,51.0834196,10.4234469,None,Low,Hessen
+EMEA,,51.0834196,10.4234469,None,Low,
+EMEA,,51.0834196,10.4234469,None,Low,Bremen
+EMEA,,51.0834196,10.4234469,None,Low,Nordrhein-Westfalen
+EMEA,,51.0834196,10.4234469,None,Low,Bayern
+EMEA,,51.0834196,10.4234469,None,Low,Rheinland-Pfalz
+EMEA,,51.0834196,10.4234469,None,Low,Niedersachsen
+EMEA,,51.0834196,10.4234469,None,Low,Baden-W
+EMEA,,51.0834196,10.4234469,None,Low,Schleswig-Holstein
+EMEA,,51.0834196,10.4234469,None,Low,Th
+EMEA,,51.0834196,10.4234469,None,Low,Hamburg
+EMEA,,51.0834196,10.4234469,None,Low,Sachsen
+EMEA,,51.0834196,10.4234469,None,Low,Brandenburg
+EMEA,,38.9953683,21.9877132,None,Low,Thessaloniki
+APAC,,22.2793278,114.1628131,None,Low,
+EMEA,,47.1817585,19.5060937,Economic,Medium,
+EMEA,,47.1817585,19.5060937,Economic,Medium,B‚k‚s
+EMEA,,47.1817585,19.5060937,Economic,Medium,Sopron
+EMEA,,47.1817585,19.5060937,Economic,Medium,Szabolcs-Szatm r-Bereg
+EMEA,,47.1817585,19.5060937,Economic,Medium,Budapest
+EMEA,,47.1817585,19.5060937,Economic,Medium,Gyor-Moson-Sopron
+APAC,,22.3511148,78.6677428,None,Low,Rajasthan
+APAC,,22.3511148,78.6677428,None,Low,Gujarat
+APAC,,22.3511148,78.6677428,None,Low,Maharashtra
+APAC,,22.3511148,78.6677428,None,Low,Uttar Pradesh
+APAC,,22.3511148,78.6677428,None,Low,Tamil Nadu
+APAC,,22.3511148,78.6677428,None,Low,
+APAC,,22.3511148,78.6677428,None,Low,West Bengal
+APAC,,22.3511148,78.6677428,None,Low,Kerala
+APAC,,22.3511148,78.6677428,None,Low,Karnataka
+APAC,,22.3511148,78.6677428,None,Low,Punjab
+APAC,,22.3511148,78.6677428,None,Low,Delhi
+APAC,,22.3511148,78.6677428,None,Low,Andhra Pradesh
+APAC,,22.3511148,78.6677428,None,Low,Haryana
+APAC,,22.3511148,78.6677428,None,Low,Telangana
+APAC,,-2.4833826,117.8902853,Economic,Medium,Jawa Barat
+APAC,,-2.4833826,117.8902853,Economic,Medium,
+APAC,,-2.4833826,117.8902853,Economic,Medium,Jakarta Raya
+APAC,,-2.4833826,117.8902853,Economic,Medium,Banten
+APAC,,-2.4833826,117.8902853,Economic,Medium,Jawa Timur
+APAC,,-2.4833826,117.8902853,Economic,Medium,Lampung
+APAC,,-2.4833826,117.8902853,Economic,Medium,Jawa Tengah
+APAC,,-2.4833826,117.8902853,Economic,Medium,Bali
+EMEA,,52.865196,-7.9794599,None,Low,Cavan
+EMEA,,52.865196,-7.9794599,None,Low,
+EMEA,,31.5313113,34.8667654,Economic,Medium,
+EMEA,,31.5313113,34.8667654,None,Low,Treviso
+EMEA,,31.5313113,34.8667654,None,Low,
+EMEA,,31.5313113,34.8667654,None,Low,Cuneo
+EMEA,,31.5313113,34.8667654,None,Low,Napoli
+EMEA,,31.5313113,34.8667654,None,Low,Torino
+EMEA,,31.5313113,34.8667654,None,Low,Verona
+EMEA,,31.5313113,34.8667654,None,Low,Parma
+EMEA,,31.5313113,34.8667654,None,Low,Milano
+EMEA,,31.5313113,34.8667654,None,Low,Ancona
+EMEA,,31.5313113,34.8667654,None,Low,Imperia
+EMEA,,31.5313113,34.8667654,None,Low,Alessandria
+EMEA,,31.5313113,34.8667654,None,Low,Bologna
+EMEA,,31.5313113,34.8667654,None,Low,Lucca
+EMEA,,31.5313113,34.8667654,None,Low,Lecco
+EMEA,,31.5313113,34.8667654,None,Low,Pesaro e Urbino
+EMEA,,31.5313113,34.8667654,None,Low,Vicenza
+EMEA,,31.5313113,34.8667654,None,Low,MONZA E BRIANZA
+EMEA,,31.5313113,34.8667654,None,Low,Macerata
+EMEA,,31.5313113,34.8667654,None,Low,Pordenone
+EMEA,,31.5313113,34.8667654,None,Low,Roma
+EMEA,,31.5313113,34.8667654,None,Low,Venezia
+EMEA,,31.5313113,34.8667654,None,Low,Bari
+EMEA,,31.5313113,34.8667654,None,Low,Padova
+EMEA,,31.5313113,34.8667654,None,Low,Bergamo
+EMEA,,31.5313113,34.8667654,None,Low,Biella
+EMEA,,31.5313113,34.8667654,None,Low,Brindisi
+EMEA,,31.5313113,34.8667654,None,Low,Udine
+EMEA,,31.5313113,34.8667654,None,Low,Forll-Cesena (Emilia-Romagna)
+EMEA,,31.5313113,34.8667654,None,Low,Novara
+EMEA,,31.5313113,34.8667654,None,Low,Cremona
+EMEA,,31.5313113,34.8667654,None,Low,Pescara
+EMEA,,31.5313113,34.8667654,None,Low,Brescia
+EMEA,,31.5313113,34.8667654,None,Low,Catania
+EMEA,,31.5313113,34.8667654,None,Low,Ascoli Piceno
+EMEA,,31.5313113,34.8667654,None,Low,Mantova
+EMEA,,31.5313113,34.8667654,None,Low,Ravenna
+EMEA,,31.5313113,34.8667654,None,Low,Pesaro e Urbino (Marche)
+APAC,,36.5748441,139.2394179,None,Low,Tokyo
+APAC,,36.5748441,139.2394179,None,Low,
+APAC,,36.5748441,139.2394179,None,Low,Gunma
+APAC,,36.5748441,139.2394179,None,Low,Kanagawa
+APAC,,36.5748441,139.2394179,None,Low,Osaka
+APAC,,36.5748441,139.2394179,None,Low,Niigata
+APAC,,36.5748441,139.2394179,None,Low,Aichi
+EMEA,,31.1667049,36.941628,Economic,Medium,Amman
+APAC,,47.2286086,65.2093197,Economic,Medium,Ongt
+EMEA,,56.8406494,24.7537645,Economic,Medium,
+EMEA,,56.8406494,24.7537645,Economic,Medium,Gulbenes Aprinkis
+EMEA,,56.8406494,24.7537645,Economic,Medium,Valkas Aprinkis
+EMEA,,55.3500003,23.7499997,Economic,Medium,Klaipedos Apskritis
+EMEA,,55.3500003,23.7499997,Economic,Medium,Vilniaus Apskritis
+EMEA,,55.3500003,23.7499997,Economic,Medium,
+EMEA,,55.3500003,23.7499997,Economic,Medium,Siauliu Apskritis
+EMEA,,55.3500003,23.7499997,Economic,Medium,Alytaus Apskritis
+EMEA,,55.3500003,23.7499997,Economic,Medium,Kauno Apskritis
+EMEA,,55.3500003,23.7499997,Economic,Medium,Marijampoles Apskritis
+EMEA,,55.3500003,23.7499997,Economic,Medium,Panevezio Apskritis
+EMEA,,55.3500003,23.7499997,Economic,Medium,Utenos Apskritis
+EMEA,,49.8158683,6.1296751,Economic,Medium,
+NA,,22.1757605,113.5514142,Economic,Medium,
+APAC,,4.5693754,102.2656823,None,Low,Selangor
+APAC,,4.5693754,102.2656823,None,Low,Perak
+APAC,,4.5693754,102.2656823,None,Low,Johor
+NA,,23.6585116,-102.0077097,None,Low,M‚xico
+NA,,23.6585116,-102.0077097,None,Low,Guanajuato
+NA,,23.6585116,-102.0077097,None,Low,
+NA,,23.6585116,-102.0077097,None,Low,Nuevo Leon
+NA,,23.6585116,-102.0077097,None,Low,Durango
+NA,,23.6585116,-102.0077097,None,Low,Chihuahua
+NA,,23.6585116,-102.0077097,None,Low,Quer‚taro
+NA,,23.6585116,-102.0077097,None,Low,Aguascalientes
+NA,,23.6585116,-102.0077097,None,Low,Coahuila
+NA,,23.6585116,-102.0077097,None,Low,Hidalgo
+NA,,23.6585116,-102.0077097,None,Low,Puebla
+NA,,23.6585116,-102.0077097,None,Low,Distrito Federal
+EMEA,,47.2879608,28.5670941,Economic,Medium,Chisinau
+EMEA,,52.2288689,5.3214503,None,Low,Gelderland
+EMEA,,52.2288689,5.3214503,None,Low,
+EMEA,,52.2288689,5.3214503,None,Low,Zuid-Holland
+EMEA,,52.2288689,5.3214503,None,Low,Noord-Holland
+EMEA,,52.2288689,5.3214503,None,Low,Overijssel
+EMEA,,52.2288689,5.3214503,None,Low,Limburg
+EMEA,,52.2288689,5.3214503,None,Low,Friesland
+EMEA,,52.2288689,5.3214503,None,Low,Utrecht
+EMEA,,52.2288689,5.3214503,None,Low,Noord-Brabant
+EMEA,,-41.5000831,172.8344077,None,Low,Canterbury
+EMEA,,60.5000209,9.0999715,Economic,Medium,
+APAC,,30.3308401,71.247499,Economic,Medium,Sind
+APAC,,30.3308401,71.247499,Economic,Medium,Punjab
+APAC,,12.7503486,122.7312101,Economic,Medium,
+EMEA,,52.215933,19.134422,Economic,Medium,Pomorskie
+EMEA,,52.215933,19.134422,Economic,Medium,Malopolskie
+EMEA,,52.215933,19.134422,Economic,Medium,Wielkopolskie
+EMEA,,52.215933,19.134422,Economic,Medium,
+EMEA,,52.215933,19.134422,Economic,Medium,Mazowieckie
+EMEA,,52.215933,19.134422,Economic,Medium,Slaskie
+EMEA,,52.215933,19.134422,Economic,Medium,Zachodniopomorskie
+EMEA,,52.215933,19.134422,Economic,Medium,L¢dzkie
+EMEA,,52.215933,19.134422,Economic,Medium,Dolnoslaskie
+EMEA,,52.215933,19.134422,Economic,Medium,Podkarpackie
+EMEA,,52.215933,19.134422,Economic,Medium,Warminsko-mazurskie
+EMEA,,52.215933,19.134422,Economic,Medium,Lubelskie
+EMEA,,52.215933,19.134422,Economic,Medium,Lubuskie
+EMEA,,52.215933,19.134422,Economic,Medium,Swietokrzyskie
+EMEA,,52.215933,19.134422,Economic,Medium,Kujawsko-pomorskie
+EMEA,,52.215933,19.134422,Economic,Medium,Opolskie
+EMEA,,52.215933,19.134422,Economic,Medium,Podlaskie
+EMEA,,40.0332629,-7.8896263,None,Low,Leiria
+EMEA,,40.0332629,-7.8896263,None,Low,Porto
+EMEA,,40.0332629,-7.8896263,None,Low,Coimbra
+EMEA,,40.0332629,-7.8896263,None,Low,Lisboa
+EMEA,,40.0332629,-7.8896263,None,Low,
+EMEA,,40.0332629,-7.8896263,None,Low,Braga
+EMEA,,40.0332629,-7.8896263,None,Low,Set£bal
+EMEA,,45.9852129,24.6859225,Economic,Medium,Maramures
+EMEA,,45.9852129,24.6859225,Economic,Medium,Cluj
+EMEA,,45.9852129,24.6859225,Economic,Medium,Sibiu
+EMEA,,45.9852129,24.6859225,Economic,Medium,
+EMEA,,45.9852129,24.6859225,Economic,Medium,Braila
+EMEA,,45.9852129,24.6859225,Economic,Medium,Gorj
+EMEA,,45.9852129,24.6859225,Economic,Medium,Alba
+EMEA,,45.9852129,24.6859225,Economic,Medium,Mures
+EMEA,,45.9852129,24.6859225,Economic,Medium,Timis
+EMEA,,45.9852129,24.6859225,Economic,Medium,Harghita
+EMEA,,64.6863136,97.7453061,War,High,Moskva
+EMEA,,64.6863136,97.7453061,War,High,Leningradskaya oblast'
+EMEA,,64.6863136,97.7453061,War,High,Nizhegorodskaya oblast'
+EMEA,,64.6863136,97.7453061,War,High,Kaluzhskaya oblast'
+EMEA,,64.6863136,97.7453061,War,High,Ryazanskaya oblast'
+EMEA,,64.6863136,97.7453061,War,High,Novgorodskaya oblast'
+EMEA,,64.6863136,97.7453061,War,High,Orlovskaya oblast'
+EMEA,,64.6863136,97.7453061,War,High,Rostovskaya oblast'
+EMEA,,64.6863136,97.7453061,War,High,
+EMEA,,64.6863136,97.7453061,War,Medium,Ivanovskaya oblast'
+EMEA,,64.6863136,97.7453061,War,High,Vladimirskaya oblast'
+EMEA,,64.6863136,97.7453061,War,High,Lipetskaya oblast'
+EMEA,,64.6863136,97.7453061,War,High,Kirovskaya oblast'
+EMEA,,64.6863136,97.7453061,War,High,"Tatarstan, Respublika"
+EMEA,,64.6863136,97.7453061,War,High,"Kareliya, Respublika"
+EMEA,,64.6863136,97.7453061,War,High,Tverskaya oblast'
+EMEA,,64.6863136,97.7453061,War,High,Moskovskaya oblast'
+EMEA,,64.6863136,97.7453061,War,Medium,Belgorodskaya oblast'
+EMEA,,64.6863136,97.7453061,War,High,Kaliningradskaya oblast'
+EMEA,,64.6863136,97.7453061,War,High,Udmurtskaya Respublika
+EMEA,,64.6863136,97.7453061,War,High,Kurskaya oblast'
+EMEA,,64.6863136,97.7453061,War,High,Vologodskaya oblast'
+EMEA,,64.6863136,97.7453061,War,High,Voronezhskaya oblast'
+EMEA,,64.6863136,97.7453061,War,High,Sankt-Peterburg
+EMEA,,25.6242618,42.3528328,Economic,Medium,Al Jawf
+EMEA,,25.6242618,42.3528328,Economic,Medium,Ash Sharqiyah
+EMEA,,44.1534121,20.55144,Economic,Medium,ZAJECARSKI OKRUG
+EMEA,,44.1534121,20.55144,Economic,Medium,
+EMEA,,44.1534121,20.55144,Economic,Medium,MORAVICKI OKRUG
+APAC,,1.357107,103.8194992,None,Low,
+EMEA,,48.7411522,19.4528646,Economic,Medium,
+EMEA,,48.7411522,19.4528646,Economic,Medium,Banskobystrick? kraj
+EMEA,,48.7411522,19.4528646,Economic,Medium,Bratislavsk? kraj
+EMEA,,48.7411522,19.4528646,Economic,Medium,Zilinsk? kraj
+EMEA,,48.7411522,19.4528646,Economic,Medium,Trnavsk? kraj
+EMEA,,48.7411522,19.4528646,Economic,Medium,Kolick? kraj
+EMEA,,45.8133113,14.4808369,None,Low,Bistrica ob Sotli
+EMEA,,45.8133113,14.4808369,None,Low,
+EMEA,,45.8133113,14.4808369,None,Low,Dobrovnik
+EMEA,,45.8133113,14.4808369,None,Low,Maribor
+EMEA,,45.8133113,14.4808369,None,Low,Velenje
+EMEA,,45.8133113,14.4808369,None,Low,Koper
+APAC,,36.638392,127.6961188,Economic,Medium,
+APAC,,36.638392,127.6961188,Economic,Medium,Seoul Teugbyeolsi
+APAC,,36.638392,127.6961188,Economic,Medium,Gyeonggido
+APAC,,36.638392,127.6961188,Economic,Medium,Chungcheongbugdo
+EMEA,,39.3260685,-4.8379791,Economic,Medium,Murcia
+EMEA,,39.3260685,-4.8379791,Economic,Medium,Guadalajara
+EMEA,,39.3260685,-4.8379791,Economic,Medium,Almer¡a
+EMEA,,39.3260685,-4.8379791,Economic,Medium,Barcelona
+EMEA,,39.3260685,-4.8379791,Economic,Medium,Alicante
+EMEA,,39.3260685,-4.8379791,Economic,Medium,Girona
+EMEA,,39.3260685,-4.8379791,Economic,Medium,Valencia
+EMEA,,39.3260685,-4.8379791,Economic,Medium,
+EMEA,,39.3260685,-4.8379791,Economic,Medium,Toledo
+EMEA,,39.3260685,-4.8379791,Economic,Medium,Tarragona
+EMEA,,39.3260685,-4.8379791,Economic,Medium,Guip£zcoa
+APAC,,7.5554942,80.7137847,Economic,Medium,Gampaha
+EMEA,,59.6749712,14.5208584,None,Low,Sk†ne l„n
+EMEA,,59.6749712,14.5208584,None,Low,J”nk”pings l„n
+EMEA,,59.6749712,14.5208584,None,Low,V„stra G”talands l„n
+EMEA,,59.6749712,14.5208584,None,Low,Stockholms l„n
+EMEA,,59.6749712,14.5208584,None,Low,
+EMEA,,59.6749712,14.5208584,None,Low,Gotlands l„n
+EMEA,,59.6749712,14.5208584,None,Low,™rebro l„n
+EMEA,,59.6749712,14.5208584,None,Low,Kalmar l„n
+EMEA,,59.6749712,14.5208584,None,Low,™sterg”tlands l„n
+EMEA,,59.6749712,14.5208584,None,Low,J„mtlands l„n
+EMEA,,59.6749712,14.5208584,None,Low,Hallands l„n
+EMEA,,59.6749712,14.5208584,None,Low,V„sterbottens l„n
+EMEA,,59.6749712,14.5208584,None,Low,Kronobergs l„n
+EMEA,,59.6749712,14.5208584,None,Low,V„rmlands l„n
+EMEA,,59.6749712,14.5208584,None,Low,V„sternorrlands l„n
+EMEA,,59.6749712,14.5208584,None,Low,Blekinge l„n
+EMEA,,46.7985624,8.2319736,None,Low,Glarus
+EMEA,,46.7985624,8.2319736,None,Low,
+EMEA,,46.7985624,8.2319736,None,Low,Thurgau
+APAC,,23.9739374,120.9820179,Economic,Medium,Taipei
+APAC,,23.9739374,120.9820179,Economic,Medium,Changhua
+APAC,,23.9739374,120.9820179,Economic,Medium,Chiayi
+APAC,,23.9739374,120.9820179,Economic,Medium,
+APAC,,23.9739374,120.9820179,Economic,Medium,Tainan
+APAC,,23.9739374,120.9820179,Economic,Medium,Kaohsiung
+APAC,,23.9739374,120.9820179,Economic,Medium,Hsinchu
+APAC,,23.9739374,120.9820179,Economic,Medium,Taichung
+APAC,,23.9739374,120.9820179,Economic,Medium,Taoyuan
+APAC,,14.8971921,100.83273,Economic,Medium,Samut Sakhon
+APAC,,14.8971921,100.83273,Economic,Medium,Nakhon Pathom
+APAC,,14.8971921,100.83273,Economic,Medium,Chachoengsao
+APAC,,14.8971921,100.83273,Economic,Medium,
+APAC,,14.8971921,100.83273,Economic,Medium,Krung Thep Maha Nakhon (Bangkok)
+APAC,,14.8971921,100.83273,Economic,Medium,Lampang
+APAC,,14.8971921,100.83273,Economic,Medium,Samut Prakan
+APAC,,14.8971921,100.83273,Economic,Medium,Saraburi
+APAC,,14.8971921,100.83273,Economic,Medium,Chon Buri
+APAC,,14.8971921,100.83273,Economic,Medium,Nonthaburi
+APAC,,14.8971921,100.83273,Economic,Medium,Chumphon
+EMEA,,38.9597594,34.9249653,Economic,Medium,
+EMEA,,38.9597594,34.9249653,Economic,Medium,Istanbul
+EMEA,,38.9597594,34.9249653,Economic,Medium,Adana
+EMEA,,38.9597594,34.9249653,Economic,Medium,Manisa
+EMEA,,38.9597594,34.9249653,Economic,Medium,Usak
+EMEA,,38.9597594,34.9249653,Economic,Medium,Kayseri
+EMEA,,38.9597594,34.9249653,Economic,Medium,Tekirdag
+EMEA,,38.9597594,34.9249653,Economic,Medium,Zonguldak
+EMEA,,38.9597594,34.9249653,Economic,Medium,Izmir
+EMEA,,38.9597594,34.9249653,Economic,Medium,Eskisehir
+EMEA,,38.9597594,34.9249653,Economic,Medium,Bursa
+EMEA,,38.9597594,34.9249653,Economic,Medium,K
+EMEA,,38.9597594,34.9249653,Economic,Medium,Kocaeli
+EMEA,,38.9597594,34.9249653,Economic,Medium,Kahramanmaras
+EMEA,,38.9597594,34.9249653,Economic,Medium,Denizli
+EMEA,,38.9597594,34.9249653,Economic,Medium,Gaziantep
+EMEA,,38.9597594,34.9249653,Economic,Medium,Sakarya
+EMEA,,38.9597594,34.9249653,Economic,Medium,Yalova
+EMEA,,49.4871968,31.2718321,War,High,Ky‹v
+EMEA,,49.4871968,31.2718321,War,High,Ivano-Frankivs'a Oblast'
+EMEA,,49.4871968,31.2718321,War,High,Rivnens'a Oblast'
+EMEA,,49.4871968,31.2718321,War,High,Zakarpats'a Oblast'
+EMEA,,24.0002488,53.9994829,Economic,Medium,
+EMEA,,24.0002488,53.9994829,Economic,Medium,Al Fujayrah
+EMEA,,54.7023545,-3.2765753,None,Low,Manchester
+EMEA,,54.7023545,-3.2765753,None,Low,Midlothian
+EMEA,,54.7023545,-3.2765753,None,Low,North East Lincolnshire
+EMEA,,54.7023545,-3.2765753,None,Low,York
+NA,,39.7837304,-100.445882,None,Low,California
+NA,,39.7837304,-100.445882,None,Low,
+NA,,39.7837304,-100.445882,None,Low,New Jersey
+NA,,39.7837304,-100.445882,None,Low,North Carolina
+NA,,39.7837304,-100.445882,None,Low,Florida
+NA,,39.7837304,-100.445882,None,Low,Wisconsin
+NA,,39.7837304,-100.445882,None,Low,Ohio
+NA,,39.7837304,-100.445882,None,Low,Michigan
+NA,,39.7837304,-100.445882,None,Low,Virginia
+NA,,39.7837304,-100.445882,None,Low,Delaware
+NA,,39.7837304,-100.445882,None,Low,Illinois
+NA,,39.7837304,-100.445882,None,Low,Pennsylvania
+NA,,39.7837304,-100.445882,None,Low,Massachusetts
+NA,,39.7837304,-100.445882,None,Low,Minnesota
+NA,,39.7837304,-100.445882,None,Low,New York
+NA,,39.7837304,-100.445882,None,Low,Tennessee
+NA,,39.7837304,-100.445882,None,Low,Texas
+NA,,39.7837304,-100.445882,None,Low,Arkansas
+APAC,,13.2904027,108.4265113,Economic,Medium,"Ha Noi, thu do"
+APAC,,13.2904027,108.4265113,Economic,Medium,
+APAC,,13.2904027,108.4265113,Economic,Medium,Binh Duong
+APAC,,13.2904027,108.4265113,Economic,Medium,Hoa Binh
+APAC,,13.2904027,108.4265113,Economic,Medium,"Ho Chi Minh, thanh pho [Sai Gon]"
+APAC,,13.2904027,108.4265113,Economic,Medium,Dong Nai
+APAC,,13.2904027,108.4265113,Economic,Medium,Lam Dong
+APAC,,13.2904027,108.4265113,Economic,Medium,Ha Nam
+APAC,,13.2904027,108.4265113,Economic,Medium,Nam Dinh
+APAC,,13.2904027,108.4265113,Economic,Medium,Quang Ngai
+APAC,,13.2904027,108.4265113,Economic,Medium,Ba Ria - Vung Tau
+APAC,,13.2904027,108.4265113,Economic,Medium,Khanh Hoa
+APAC,,13.2904027,108.4265113,Economic,Medium,Hung Yen
